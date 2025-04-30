@@ -38,7 +38,7 @@ Here’s a breakdown of how the system works:
 ### Screenshots
 
 ### Simple UI
-<img src=''>
+<img src='https://github.com/Abhinav-Nema/Automated-Attendance-System/blob/main/Project%20Snap/1.PNG'>
 
 
 ## Attendance in tabular format 
